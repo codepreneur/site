@@ -5,7 +5,7 @@ import { joinUri } from "phenomic"
 // import { BodyContainer, joinUri, Link } from "phenomic"
 
 // import Button from "../../components/Button"
-import Loading from "../../components/Loading"
+// import Loading from "../../components/Loading"
 
 const Page = (
   {
