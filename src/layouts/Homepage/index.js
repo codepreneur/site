@@ -41,10 +41,10 @@ const Homepage = (props) => {
           backgroundImage: 'url(http://mrmrs.io/photos/u/011.jpg)'
         }}>
 
-        <div className='pa4 bg-black-80' >
+        <div className='pa4 bg-black-80'>
           <div className='tc'>
               <h2 className='f2-l f2i-m f3 ttu tracked white'>Receive Our Newsletter</h2>
-              <form className='ma0-ns' action='https://tinyletter.com/codepreneur' method='post' target='popupwindow' onSubmit="window.open('https://tinyletter.com/codepreneur', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+              <form className='ma0-ns' action='https://tinyletter.com/codepreneur' method='post' target='popupwindow'>
                   <input className='v-top h3-ns ba f6-ns f7 mb3 ph4-l w-33-l blr2-l ph3-m w-33-m blr2-m ph2 w-100 br2 h2' type='text' name='email' id='tlemail' placeholder='Your email address' />
                   <input type='hidden' value='1' name='embed' />
                   <input className='ttu tracked v-top b ba f5-ns f6 h3-ns pv0-ns brr2-l ph4-l brr2-m ph3-m br2 pv2 ph4' type='submit' value='Subscribe' />

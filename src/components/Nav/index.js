@@ -29,8 +29,8 @@ const Nav = () => (
             <div className='white overflow-hidden relative'>
               <div className='mw8 pb5 ph3 center tc tl-ns'>
 
-                <h1 className='f2 f1-l fw2 white-90 mb0 lh-title pt4-l pt1'>Hi, I am Vaidas (codepreneur)</h1>
-                <h2 className='fw1 f3 white-80 mt3 mb4'>freelance full stack javascript developer</h2>
+                <h1 className='f2 f1-l fw3 white-90 mb0 lh-title pt4-l pt1'>Hi, I am Vaidas (codepreneur)</h1>
+                <h2 className='fw3 f3 white-80 mt3 mb4'>freelance full stack javascript developer</h2>
                 <a className='f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3' href='#0'>Explore my work</a>
                 <span className='dib v-mid ph3 white-70 mb3'>or</span>
                 <a className='f6 no-underline grow dib v-mid white ba b--white ph3 pv2 mb3' href='#0'>Hire me</a>
