@@ -38,7 +38,7 @@ const Homepage = (props) => {
       <section 
         className='sans-serif relative cover bg-left bg-center-l' 
         style={{
-          backgroundImage: 'url(http://mrmrs.io/photos/u/011.jpg)'
+          backgroundImage: 'url(/assets/images/bg.jpg)'
         }}>
 
         <div className='pa4 bg-black-80'>
@@ -108,7 +108,7 @@ const Homepage = (props) => {
       <section 
         className='sans-serif relative cover bg-left bg-center-l' 
         style={{
-          backgroundImage: 'url(http://mrmrs.io/photos/u/011.jpg)'
+          backgroundImage: 'url(/assets/images/bg.jpg)'
         }}>
 
         <div className='pa4 bg-black-80' >

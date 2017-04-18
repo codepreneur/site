@@ -5,7 +5,7 @@ const Nav = () => (
     <div 
       className='cover bg-left bg-center-l' 
       style={{
-        backgroundImage: 'url(http://mrmrs.io/photos/u/011.jpg)'
+        backgroundImage: 'url(/assets/images/bg.jpg)'
       }}>
       <div className='bg-black-80 pb5 pb6-m pb7-l'>
         <nav className='dt w-100 mw8 center'> 
