@@ -40,40 +40,50 @@ const Nav = () => (
                 <div className='iso-column pa2-m pa3-l w-100'>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/scsite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="https://www.sc.com/en/" target="_blank">
+                        <img src='/assets/images/scsite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>        
                 <div className='iso-column pa2-m pa3-l w-100'>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/suggestvsite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="https://www.sugges.tv/" target="_blank">
+                        <img src='/assets/images/suggestvsite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>        
                 <div className='iso-column pa2-m pa3-l w-100'>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/kayakosite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="https://www.kayako.com/" target="_blank">
+                        <img src='/assets/images/kayakosite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>        
                 <div className='iso-column pa2-m pa3-l w-100'>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/codepreneursite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="http://codepreneur.github.io/" target="_blank">
+                        <img src='/assets/images/codepreneursite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>        
                 <div className='iso-column pa2-m pa3-l w-100'>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/briksite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="http://brik.co.uk/" target="_blank">
+                        <img src='/assets/images/briksite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>        
@@ -84,8 +94,10 @@ const Nav = () => (
                   }}>
                   <div className='iso-card'>
                     <figure className='iso-card-thumb ma2'>
-                      <img src='/assets/images/davinasite.png' className='luminous' />
-                      <span className='shadow cover2'></span>
+                      <a href="http://www.getfitwithdavina.com/" target="_blank">
+                        <img src='/assets/images/davinasite.png' className='luminous' />
+                        <span className='shadow cover2'></span>
+                      </a>
                     </figure>
                   </div>
                 </div>
