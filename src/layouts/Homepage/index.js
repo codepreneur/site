@@ -64,40 +64,40 @@ const Homepage = (props) => {
         </h2>
         <div className='mt0 flex flex-wrap justify-center items-center '>
           <div className='w4-l w3 mh4 pv2 pv3-m pv4-l dim pointer grow'>
-            <img src='/assets/images/react.svg' alt='React' />
+            <a href='https://facebook.github.io/react/' target='_blank'><img src='/assets/images/react.svg' alt='React' /></a>
           </div>    
           <div className='w4-l w3 mh4 pv2 pv3-m pv4-l dim pointer grow'>
-            <img src='/assets/images/graphql.svg' alt='GraphQL' />
+            <a href='http://graphql.org/' target='_blank'><img src='/assets/images/graphql.svg' alt='GraphQL' /></a>
           </div>    
           <div className='w4-l w3 mh4 pv2 pv3-m pv4-l dim pointer grow'>
-            <img src='/assets/images/relay.svg' alt='Relay' />
+            <a href='https://facebook.github.io/relay/' target='_blank'><img src='/assets/images/relay.svg' alt='Relay' /></a>
           </div>   
           <div className='w4-l w3 mh4 pv2 pv3-m pv4-l dim pointer grow'>
-            <img src='/assets/images/javascript.png' alt='JavaScript' />
+            <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank'><img src='/assets/images/javascript.png' alt='JavaScript' /></a>
           </div> 
           <div className='w4-l w3 mh4 pv2 pv3-m pv4-l ph3 ph1-l dim pointer grow'>
-            <img src='/assets/images/ember.png' alt='Ember' />
+            <a href='https://emberjs.com/' target='_blank'><img src='/assets/images/ember.png' alt='Ember' /></a>
           </div>    
           <div className='w3 mh4 pv2 pv3-m dim pointer grow'>
-            <img src='/assets/images/lambda.png' alt='Lambda' />
+            <a href='https://aws.amazon.com/lambda/' target='_blank'><img src='/assets/images/lambda.png' alt='Lambda' /></a>
           </div>
           <div className='w3 mh4 pv2 pv3-m pb0-l ph3 ph1-l dim pointer grow'>
-            <img src='/assets/images/openwhisk.png' alt='Open Whisk' />
+            <a href='https://developer.ibm.com/open/openprojects/openwhisk/' target='_blank'><img src='/assets/images/openwhisk.png' alt='Open Whisk' /></a>
           </div>    
           <div className='w3 mh4 pv2 pv3-m pb0-l dim pointer grow'>
-            <img src='/assets/images/gcloud.png' alt='Google Cloud Functions' />
+            <a href='https://cloud.google.com/functions/' target='_blank'><img src='/assets/images/gcloud.png' alt='Google Cloud Functions' /></a>
           </div>    
           <div className='w3 mh4 pv2 pv3-m pb0-l dim pointer grow'>
-            <img src='/assets/images/azure.svg' alt='Microsoft Azure Functions' />
+            <a href='https://azure.microsoft.com/en-gb/services/functions/' target='_blank'><img src='/assets/images/azure.svg' alt='Microsoft Azure Functions' /></a>
           </div>    
           <div className='w3 mh4 pv2 pv3-m pb0-l dim pointer grow'>
-            <img src='/assets/images/html5.svg' alt='Html 5' />
+            <a href='https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5' target='_blank'><img src='/assets/images/html5.svg' alt='Html 5' /></a>
           </div>   
           <div className='w3 mh4 pv2 pv3-m pb0-l ph3 ph1-l dim pointer grow'>
-            <img src='/assets/images/css.svg' alt='CSS' />
+            <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'><img src='/assets/images/css.svg' alt='CSS' /></a>
           </div>    
           <div className='w3 mh4 pv2 pv3-m pb0-l dim pointer grow'>
-            <img src='/assets/images/node.png' alt='Node JS' />
+            <a href='https://nodejs.org/en/' target='_blank'><img src='/assets/images/node.png' alt='Node JS' /></a>
           </div>    
 
         </div>
